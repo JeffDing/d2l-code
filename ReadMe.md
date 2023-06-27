@@ -6,11 +6,13 @@
 ### 书籍网址
 
 中文版：https://zh-v2.d2l.ai/
+
 English Version：https://d2l.ai/
 
 
 ### d2l目录
 1. 安装d2l包
+
 中文版：
 ```bash
 pip install d2l==0.17.6
